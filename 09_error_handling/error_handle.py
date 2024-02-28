@@ -2,7 +2,7 @@
 file = open('youtube.txt', 'w')
 
 try:
-    file.write('chai aur code')
+    file.write('chai aur code')  
 finally:
     file.close()
 

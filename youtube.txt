@@ -1,1 +1,1 @@
-chai aur python
+[{"name": "backend in JavaScript", "time": "15 hrs"}, {"name": "python lesson", "time": "1hr 19mins"}]
