@@ -1,5 +1,6 @@
 
-*/.env/
+
 
 */.venv/
 
+12_python_mongodb/.env
